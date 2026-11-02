@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wonderFrames-react-imagegallery/static/css/main.d21558d2.css",
+    "main.js": "/wonderFrames-react-imagegallery/static/js/main.f7eb02d2.js",
+    "static/media/img2.jpg": "/wonderFrames-react-imagegallery/static/media/img2.41c8b3a8ae8262a2d682.jpg",
+    "static/media/img8.jpg": "/wonderFrames-react-imagegallery/static/media/img8.fa539653a30f0165954f.jpg",
+    "static/media/img6.jpg": "/wonderFrames-react-imagegallery/static/media/img6.a2cc8675d54b9ecbd9c2.jpg",
+    "static/media/img7.jpg": "/wonderFrames-react-imagegallery/static/media/img7.f3931e82859f5244d2ae.jpg",
+    "static/media/img5.jpg": "/wonderFrames-react-imagegallery/static/media/img5.7a5202daa3e252315d87.jpg",
+    "static/media/img9.jpg": "/wonderFrames-react-imagegallery/static/media/img9.dcd95b803aa84787f49a.jpg",
+    "static/media/img1.jpg": "/wonderFrames-react-imagegallery/static/media/img1.dc4d4dc8a23030790385.jpg",
+    "static/media/img3.jpg": "/wonderFrames-react-imagegallery/static/media/img3.026624dad2f2eda9b289.jpg",
+    "static/media/img4.jpg": "/wonderFrames-react-imagegallery/static/media/img4.5d9743a0a95484750db4.jpg",
+    "index.html": "/wonderFrames-react-imagegallery/index.html",
+    "main.d21558d2.css.map": "/wonderFrames-react-imagegallery/static/css/main.d21558d2.css.map",
+    "main.f7eb02d2.js.map": "/wonderFrames-react-imagegallery/static/js/main.f7eb02d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21558d2.css",
+    "static/js/main.f7eb02d2.js"
+  ]
+}
